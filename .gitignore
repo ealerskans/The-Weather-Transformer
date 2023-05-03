@@ -1,0 +1,6 @@
+figs/
+/models/
+__pycache__/
+runs/
+
+*.swp
